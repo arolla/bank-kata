@@ -24,15 +24,17 @@ The specifications constrain you with this interface (due to business contract b
 >	String getStatement();
 
 # Fun
+
 You can follows the Object Calisthenics rules:
-    - One level of indentation per method
-    - Don’t use the ELSE keyword
-    - Wrap all primitives and Strings
-    - First class collections
-    - One dot per line
-    - Don’t abbreviate
-    - Keep all entities small (50 lines)
-    - No classes with more than two instance variables
-    - No getters/setters/properties
+
+- One level of indentation per method
+- Don’t use the ELSE keyword
+- Wrap all primitives and Strings
+- First class collections
+- One dot per line
+- Don’t abbreviate
+- Keep all entities small (50 lines)
+- No classes with more than two instance variables
+- No getters/setters/properties
 
 
