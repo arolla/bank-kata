@@ -23,6 +23,8 @@ The specifications constrain you with this interface (due to business contract b
 
 >	String getStatement();
 
+implements this product, guided by tests.
+
 # Fun
 
 You can follows the Object Calisthenics rules:
