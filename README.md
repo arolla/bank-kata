@@ -15,7 +15,7 @@ date || credit || debit || balance
 10/01/2012 || 1000.00 || || 1000.00 
 ```
 
-The specifications constrain you with this interface (due to business contract between your boss and your customers):
+The specifications constrain you with this interface (due to business contract between your company and your customers):
 
 >	void deposit(String amount); 
 
